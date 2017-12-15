@@ -402,13 +402,13 @@ h4 {
 
 
 	.mig {
-		width: 200px;
+		width: 20%;
 		margin: auto;
 		display: block;
 		position: static;
 		left: 35%;
 		bottom: auto;
-		margin-top: -8%;
+		margin-top: -10%;
 		z-index: 2;
 
 	}
@@ -608,14 +608,15 @@ h4 {
 		position: static;
 		left: 35%;
 		bottom: auto;
-		margin-top: -14%;
+		margin-top: -15%;
 		z-index: 2;
 
 	}
 
 
 	#om-mig2 {
-		height: 815px;
+		height: 900px;
+		
 
 	}
 
