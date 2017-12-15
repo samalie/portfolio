@@ -95,8 +95,7 @@ footer {
 	line-height: 25px;
 	height: 150px;
 	margin-top: 225px;
-	clear: both; !important
-	
+	clear: both;
 }
 
 footer p {
@@ -127,15 +126,15 @@ footer p {
 /*PORTFOLIO*/
 
 .woop {
-		width: 50%;
-	}
+	width: 50%;
+}
 
 .woop2 {
 	width: 100%;
 }
 
 .woop3 {
-	width:50%;
+	width: 50%;
 }
 
 .woop4 {
@@ -230,7 +229,7 @@ h4 {
 	.topnav {
 		border-top: thin solid #dddd;
 	}
-	
+
 	.logo {
 		margin-top: 10%;
 		width: 20%;
@@ -272,8 +271,8 @@ h4 {
 
 	#om-mig2 {
 		height: 650px;
-	
-		
+
+
 	}
 
 	.farve {
@@ -328,7 +327,7 @@ h4 {
 		line-height: 25px;
 
 	}
-	
+
 
 	.flex-container {
 
@@ -355,7 +354,7 @@ h4 {
 		float: right;
 		padding-bottom: 20%;
 	}
-	
+
 }
 
 
@@ -378,7 +377,7 @@ h4 {
 		border-top: hidden;
 		margin-top: 7.5%;
 	}
-	
+
 	#forside {
 		font-size: 35px;
 		margin-top: 3%;
@@ -399,8 +398,8 @@ h4 {
 
 
 	}
-	
-	
+
+
 
 	.mig {
 		width: 200px;
@@ -417,7 +416,7 @@ h4 {
 
 	#om-mig2 {
 		height: 600px;
-		
+
 	}
 
 	.farve {
@@ -462,7 +461,7 @@ h4 {
 	}
 
 
-		.broedtekst {
+	.broedtekst {
 		margin-top: 250px;
 		margin-left: 5%;
 		display: inline-flex;
@@ -477,14 +476,14 @@ h4 {
 		line-height: 25px;
 
 	}
-	
-	
-	
+
+
+
 	.om-projekt {
 		padding: 25px;
-		text-align:justify;
+		text-align: justify;
 		line-height: 25px;
-		width:100%;
+		width: 100%;
 
 	}
 
@@ -512,11 +511,10 @@ h4 {
 		width: 100%;
 		float: right;
 	}
-	
+
 }
-	
-	
-}
+
+
 /*Mobil*/
 
 @media screen and (max-width: 600px) {
@@ -524,6 +522,7 @@ h4 {
 		display: none;
 
 	}
+	
 	.topnav a.icon {
 		float: right;
 		display: block;
@@ -555,7 +554,7 @@ h4 {
 	header {
 		background-image: url(test5.jpg);
 		background-size: 100%;
-		
+
 
 	}
 
@@ -617,7 +616,7 @@ h4 {
 
 	#om-mig2 {
 		height: 815px;
-		
+
 	}
 
 	.farve {
